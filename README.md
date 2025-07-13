@@ -14,4 +14,4 @@ Perfect for educational purposes, algorithm practice, and lightweight runtime da
 ## 📦 Installation
 
 ```bash
-npm install linkedlist-utils
+npm i linkedlist-utils
